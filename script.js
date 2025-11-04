@@ -1,2 +1,2 @@
-// Automatically update the current year in the footer
-document.getElementById('year').textContent = new Date().getFullYear();
+// Add simple interaction if needed
+console.log("SNRT Solutions site loaded successfully!");
